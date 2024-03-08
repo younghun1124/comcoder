@@ -1,6 +1,9 @@
 # ComCoder
 
-ComCoder, a portmanteau of "Camcorder" and "Computer," is a Python-based utility designed to interact with your computer's camera. It allows for real-time video capture, preview, and recording, with the added functionality of flipping the video feed and toggling between preview and record modes. Developed with simplicity and efficiency in mind, ComCoder utilizes OpenCV, a powerful library for computer vision tasks, to interface with your camera hardware.
+
+<img width="708" alt="image" src="https://github.com/younghun1124/comcoder/assets/83543030/cf2d7bbe-2bfc-4efd-85f6-51bd6d09c9fd">
+
+
 
 ## Features
 
